@@ -34,4 +34,5 @@ pip install -r requirements.txt
 python yarbscan.py
 ```
 
+When you run the tool, you must enter the website's IP address, after which the answer will appear, especially since the tool uses the most popular ports to check whether they are open or not.
 
