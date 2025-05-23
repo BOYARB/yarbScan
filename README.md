@@ -10,5 +10,28 @@ kali linux
 
 Ubuntu 
 
+# Commands
+
+```
+pkg update
+```
+```
+pkg upgrade
+```
+```
+pkg install git
+```
+```
+git clone https://github.com/BOYARB/yarbScan.git
+```
+```
+cd yarbScan
+```
+```
+pip install -r requirements.txt
+```
+```
+python yarbscan.py
+```
 
 
