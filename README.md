@@ -34,5 +34,6 @@ pip install -r requirements.txt
 python yarbscan.py
 ```
 
-When you run the tool, you must enter the website's IP address, after which the answer will appear, especially since the tool uses the most popular ports to check whether they are open or not.
+A quick tool. Simply enter the website's IP address, and you'll see results, including whether the port is open or not. The tool focuses on the most common web ports.
+
 
