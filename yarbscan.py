@@ -100,7 +100,4 @@ def main():
     print(Fore.YELLOW + "Scan completed." + Style.RESET_ALL)
 
 if __name__ == "__main__":
-    main()
-    
-    
-    
+    main() 
