@@ -36,9 +36,9 @@ python yarbscan.py
 
 # Main idea
 
-1: View the most popular ports on the site Option
+1: View the most popular ports on the site 
 
-2: View information about a specific port Option 
+2: View information about a specific port 
 
 3: Determine if a port is open or closed
 
